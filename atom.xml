@@ -4,7 +4,7 @@
   <title>LearnData 开源笔记</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2025-02-22T14:14:53.947Z</updated>
+  <updated>2025-02-23T09:34:41.452Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
@@ -33,5 +33,20 @@
 ]]></content>
     <category term="使用指南"/>
     <published>2024-03-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <id>https://newzone.top/family/test.html</id>
+    <link href="https://newzone.top/family/test.html"/>
+    <updated>2025-02-23T09:32:57.000Z</updated>
+    <summary type="html"><![CDATA[<hr>
+<h2>article: false
+title: 生活窍门
+icon: fa6-solid:star-of-life
+order: 5</h2>
+<h2>个人护理</h2>
+<p>无线方面，我闲鱼买了个二手路由，与原本的华硕路由进行 <a href="https://sspai.com/post/74200" target="_blank" rel="noopener noreferrer">有线 mesh 组网</a>。AiMesh 主路由连接 LAN 口，节点路由连接 WAN 口。</p>
+]]></summary>
+    <published>2025-02-23T09:32:57.000Z</published>
   </entry>
 </feed>
