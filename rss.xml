@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Feb 2025 09:34:41 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Feb 2025 09:34:41 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Feb 2025 09:38:41 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Feb 2025 09:38:41 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -33,14 +33,6 @@
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://newzone.top/family/test.html</link>
-      <guid>https://newzone.top/family/test.html</guid>
-      <source url="https://newzone.top/rss.xml"></source>
-      <description>article: false title: 生活窍门 icon: fa6-solid:star-of-life order: 5 个人护理 无线方面，我闲鱼买了个二手路由，与原本的华硕路由进行 有线 mesh 组网。AiMesh 主路由连接 LAN 口，节点路由连接 WAN 口。</description>
-      <pubDate>Sun, 23 Feb 2025 09:32:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
