@@ -3,9 +3,9 @@
 home: true
 layout: BlogHome
 icon: fa6-solid:house-crack
-title: 互联网小白
+title: xy的小站
 #heroImage: /logo.svg
-heroText: 互联网小白
+heroText: xysun
 tagline: 盛年不重来，一日难再晨
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
